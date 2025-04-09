@@ -29,7 +29,7 @@ def main():
 
     st.write(
     """
-    # API Integration via Semantic Kernel Test
+    # API Integration via Semantic Kernel
 
     This Streamlit dashboard is intended to demonstrate how we can use
     the Semantic Kernel library to generate SQL statements from natural language

@@ -59,6 +59,5 @@ def main():
                 st.table(vector_search_results.json())
             else:
                 st.warning("Please enter a query.")
-
 if __name__ == "__main__":
     main()
